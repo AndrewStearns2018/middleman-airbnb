@@ -1,0 +1,16 @@
+.appart {
+  background-size: cover;
+  background-position: bottom;
+  height: 45vh;
+}
+
+.content-div {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 35px;
+  height: calc(55vh - 240px);
+}
+
+
+
